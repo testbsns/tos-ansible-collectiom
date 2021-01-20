@@ -1,0 +1,10 @@
+authors:
+- Hu Shuai <hus.fnst@cn.fujitsu.com>
+dependencies:
+  ansible.netcommon: '>=1.0.0'
+description: Ansible Network Collection
+license_file: LICENSE
+name: tos
+namespace: testbsns
+readme: README.md
+version: 1.0.0
